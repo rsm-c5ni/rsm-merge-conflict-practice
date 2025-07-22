@@ -1,7 +1,6 @@
 ## Generate (and fix) a merge conflict
 
-Your name: Kai Ni Date: _____
-
+Your name: Kai Ni Date: 7/22/25
 
 This assignment provides some practice in how to create and resolve merge conflicts. First, fork the assignment from the link below:
 
